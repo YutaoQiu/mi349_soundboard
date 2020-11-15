@@ -1,0 +1,46 @@
+.audio{
+background-color: cadetblue;
+width: 1250px;
+margin: 0 auto;
+}
+#BB,#Bomb,#CB{
+    display: none;
+}
+
+.title{
+    display: inline-flexbox;
+}
+
+.play1{
+    text-align: center
+    margin: 30px 0;
+    padding: 30px 15px;
+    border: 2px solid #ffffff;
+}
+
+.play2{
+    text-align: center
+    margin: 30px 0;
+    padding: 30px 15px;
+    border: 2px solid #ffffff;
+}
+
+.play3{
+    text-align: center
+    margin: 30px 0;
+    padding: 30px 15px;
+    border: 2px solid #ffffff;
+}
+
+.button{
+    background-color: darkgrey;
+    width: 50px;
+    height:50px;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 10px;
+    margin-right: 20px;
+    border-radius:50%;
+}
