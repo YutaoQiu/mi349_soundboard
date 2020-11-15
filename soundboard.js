@@ -11,7 +11,7 @@ BB.addEventListener('ended',function(){
     part1.innerHTML='play'
 })
 
-var part2 = document.getElementById('part1')
+var part2 = document.getElementById('part2')
 var Bomb  = document.getElementById('Bomb')
 
 part2.addEventListener('click',function(){
